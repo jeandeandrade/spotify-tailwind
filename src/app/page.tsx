@@ -24,6 +24,13 @@ export default function Home() {
             Your Library
           </a>
         </nav>
+
+        <nav className='mt-10 pt-10 border-t border-zinc-800 flex flex-col gap-3'>
+          <a href="" className='text-sm text-zinc-400 hover:text-zinc-100'>Hot Hist Brasil</a>
+          <a href="" className='text-sm text-zinc-400 hover:text-zinc-100'>Top Raps</a>
+          <a href="" className='text-sm text-zinc-400 hover:text-zinc-100'>My Playlist #13</a>
+          <a href="" className='text-sm text-zinc-400 hover:text-zinc-100'>Top Brasil</a>
+        </nav>
       </aside>
       <main className="flex-1 p-6">
         main
